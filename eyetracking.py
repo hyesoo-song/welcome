@@ -111,5 +111,6 @@ while True:
     if key == 27:
         break
 
+#종료
 cap.release()
 cv2.destroyAllWindows()
